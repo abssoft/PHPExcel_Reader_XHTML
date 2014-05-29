@@ -1,0 +1,32 @@
+{
+    "name": "abssoft/PHPExcel_Reader_XHTML",
+    "description": "Extended HTML reader for PHPExcell",
+    "version": "0.1",
+    "type": "library",
+    "keywords": ["PHPExcel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artem Breslavskiy",
+            "email": "artem@breslavskiy.ru",
+            "homepage": "http://artbreslavskiy.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "1.8.0"
+    },
+    "repositories": [
+        
+        {
+            "type": "vcs",
+            "url": "https://github.com/abssoft/PHPExcel_Reader_XHTML"
+        }
+        
+    ],
+    "autoload": {
+        "psr-0": {
+            "PHPExcel_Reader_XHTML": "XHTML.php"
+        }
+    }
+}
