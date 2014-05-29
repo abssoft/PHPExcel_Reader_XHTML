@@ -25,8 +25,6 @@
         
     ],
     "autoload": {
-        "psr-0": {
-            "PHPExcel_Reader_XHTML": "XHTML.php"
-        }
+        "classmap":["XHTML.php"]
     }
 }
