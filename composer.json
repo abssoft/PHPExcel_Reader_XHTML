@@ -14,7 +14,7 @@
         }
     ],
     "require": {
-        "phpoffice/phpexcel": "dev"
+        "phpoffice/phpexcel": "dev-master"
     },
     "repositories": [
         
